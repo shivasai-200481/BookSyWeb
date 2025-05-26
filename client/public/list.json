@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Science 101",
+        "price": 199,
+        "category": "Education",
+        "image": "https://img.freepik.com/premium-vector/sketch-physics_156892-594.jpg?ga=GA1.1.518683529.1748184228&semt=ais_hybrid&w=740",
+        "title": "Basics of Physics"
+    },
+    {
+        "name": "Coding Made Easy",
+        "price": 349,
+        "category": "Education",
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png",
+        "title": "JavaScript for Beginners"
+    },
+    {
+        "name": "The Thinker's Guide",
+        "category": "Free",
+        "image": "https://cdn.pixabay.com/photo/2024/05/27/08/40/book-8790405_1280.png",
+        "title": "Mastering Mindset"
+    },
+    {
+        "name": "Business Smart",
+        "price": 399,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/business-man-working-hard-stock-financial-trade-market-diagram-vector-illustration-flat-design_1150-39773.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Startups & Strategy"
+    },
+    {
+        "name": "History Unfolded",
+        "price": 299,
+        "category": "Education",
+        "image": "https://img.freepik.com/free-photo/composed-book-school-supplies_23-2147654593.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Ancient Civilizations"
+    },
+    {
+        "name": "Math Mastery",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/math-science-concept-with-school-lesson-items-retro-cartoon-style_1284-8084.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Algebra & Geometry Essentials"
+    },
+    {
+        "name": "Exam Booster",
+        "price": 180,
+        "category": "Education",
+        "image": "https://img.freepik.com/premium-photo/inscription-are-you-ready-exams-keyboard-stationary-yellow-surface-close-up_185193-13306.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Tips & Tricks for Competitive Exams"
+    },
+    {
+        "name": "Science Explored",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/think-different-individuals_23-2147491733.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Study Humans"
+    },
+    {
+        "name": "Grammar Goals",
+        "price": 150,
+        "category": "Education",
+        "image": "https://img.freepik.com/premium-vector/brush-style-learn-english-banner-vector-design-illustration_1004592-2216.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "English Made Simple"
+    },
+    {
+        "name": "Computer Basics",
+        "price": 275,
+        "category": "Education",
+        "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "IT Fundamentals for Beginners"
+    },
+    {
+        "name": "Data Insights",
+        "price": 349,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1434.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Understanding Data Analytics"
+    },
+    {
+        "name": "Startup Essentials",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/idea_24908-54076.jpg?ga=GA1.1.726187220.1726479299&semt=ais_hybrid&w=740",
+        "title": "Building from Idea to Product"
+    }
+]
