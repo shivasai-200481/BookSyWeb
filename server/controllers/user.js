@@ -34,8 +34,8 @@ async function handleUserLogin(req, res) {
         const token = setUser(user);
         res.cookie('uid', token, {
             httpOnly: true,
-            sameSite: 'Lax',  // or 'None' if using HTTPS
-            secure: false     // true if you use HTTPS in production
+            sameSite: 'None',  // or 'None' if using HTTPS
+            secure: true     // true if you use HTTPS in production
         });
         console.log("cookiesent");
         return res.status(200).json({ message: "Login Successful" });
@@ -50,8 +50,8 @@ async function handleUserLogout(req, res) {
 
         res.clearCookie('uid', {
             httpOnly: true,
-            sameSite: 'Lax',
-            secure: false,
+            sameSite: 'None',
+            secure: true,
         })
         return res.status(200).json( { message:"Successfully LoggedOut!" } );
     } catch (error) {
