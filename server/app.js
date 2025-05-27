@@ -12,7 +12,7 @@ const cartRoutes = require('./routes/cart.js');
 
 
 app.use(cors({
-    origin: 'http://localhost:5173',  // your React frontend
+    origin: 'https://booksywebclient.onrender.com/',  // your React frontend
     credentials: true
 }));
 app.use(express.json());
